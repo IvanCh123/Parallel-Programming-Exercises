@@ -1,0 +1,11 @@
+hello/hello
+hello_hybrid/hello_hybrid
+hybrid_distr_bcast/hybrid_distr_bcast
+hybrid_distr_stdin/hybrid_distr_stdin
+send_recv_ord/send_recv_ord
+send_recv_urd/send_recv_urd
+lucky_number_reduce/lucky_number_reduce
+lucky_number_who/lucky_number_who
+
+
+

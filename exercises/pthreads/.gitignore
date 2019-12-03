@@ -1,0 +1,6 @@
+hello_ordered_mutex/hello_ordered_mutex
+hello_ordered_semaphore/hello_ordered_semaphore
+thread_creation_time/thread_creation_time
+trapezoidal_serial/trapezoidal_serial
+trapezoidal_pthreads/trapezoidal_pthreads
+circular_collatz/circular_collatz

@@ -1,0 +1,5 @@
+trapezoidal_openmp/trapezoidal_openmp
+cntprimes_serial/cntprimes_serial
+cntprimes_block/cntprimes_block
+cntprimes_cyclic/cntprimes_cyclic
+*.o

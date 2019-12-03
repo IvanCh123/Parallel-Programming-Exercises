@@ -1,0 +1,3 @@
+![](recorridoMemoria.jpg)
+
+![](recorridoProcesamiento.jpg)
